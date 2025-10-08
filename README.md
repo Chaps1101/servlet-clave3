@@ -19,6 +19,7 @@ La clave se construye con:
 > Entrada: Luis Ángel, Álvarez, 2002-10-07  
 > Resultado: `LuA021007`
 >
+> Intrucciones para visualizar bien el proyecto.
 > IGNORAR CARPETA 1 Y 2.
 > ├── servlet-clave3/ ← ✅ Proyecto correcto
 │ ├── src/
