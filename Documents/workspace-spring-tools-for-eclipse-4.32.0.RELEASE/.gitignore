@@ -1,0 +1,25 @@
+# Compilación y dependencias
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos de configuración del IDE
+.project
+.classpath
+.settings/
+.idea/
+*.iml
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
